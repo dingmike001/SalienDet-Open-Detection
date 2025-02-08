@@ -60,3 +60,16 @@ To inference model, you can simply run
 #copy and paste below snippet in the terminal
 python tools/test.py configs/SalienDet.py
 ```
+## Citing
+```ruby
+@article{ding2023saliendet,
+  title={SalienDet: A saliency-based feature enhancement algorithm for object detection for autonomous driving},
+  author={Ding, Ning and Zhang, Ce and Eskandarian, Azim},
+  journal={IEEE Transactions on Intelligent Vehicles},
+  volume={9},
+  number={1},
+  pages={2624--2635},
+  year={2023},
+  publisher={IEEE}
+}
+```
